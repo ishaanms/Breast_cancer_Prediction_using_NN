@@ -1,6 +1,6 @@
 # Breast-Cancer-Prediction-Using-Neural-Networks
 
-This project employs an Neural Network (NN) to predict breast cancer based on numerical features. With an accuracy of 93 % without overfitting also it consist preporcessing pipelines using which easier traformation of data which enhance Performance.
+This project employs an Neural Network (NN) to predict breast cancer based on numerical features. With an accuracy of 93 % without overfitting also it consist preporcessing pipelines using which easier tranformation of data which enhance Performance.
 
 ## Breast Cancer Prediction Using Neural Networks
 
